@@ -8,5 +8,5 @@ Feature: Create Content through Drupal Content UI
     Given I am logged in as a user with the "administrator" role
     And I am on "/node/add/page"
     And I enter "Test Page" for "Title"
-    And I press "Save and publish"
+    And I press "Save"
     Then I should see "Basic page Test Page has been created."
