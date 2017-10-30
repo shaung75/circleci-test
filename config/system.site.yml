@@ -1,7 +1,7 @@
 uuid: 1a0d038f-453c-44d9-a15f-b8c299a18643
 name: circleci-test
 mail: sgill@wildlifetrusts.org
-slogan: ''
+slogan: 'This there be the slogan'
 page:
   403: ''
   404: ''
